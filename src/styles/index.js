@@ -1,0 +1,6 @@
+export { HeaderTag } from './header_style'
+export { StyledDiv } from './overview_style'
+export { DetailTag } from './picture_detail_style'
+export { SectionTag } from './picture_results_style'
+export { ImgDiv } from './pictures_style'
+export { Form,theme } from './search_bar_style'
